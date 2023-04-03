@@ -1,0 +1,39 @@
+[
+    {
+        "id": 101,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "che"
+    },
+    {
+        "id": 102,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "che"
+    },
+    {
+        "id": 103,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "mum"
+    },
+    {
+        "id": 104,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "mum"
+    },
+    {
+        "id": 105,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "bangalore"
+    },
+    {
+        "id": 106,
+        "tableName": "interview.geography_columns",
+        "columnName": "cityName",
+        "cityName": "cochin"
+    }
+  ]
+  
